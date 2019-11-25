@@ -1,0 +1,1 @@
+﻿get-childitem -file | sort-object -Property length | select-object name, length | Export-Csv -Path LS2_03.csv -delimiter ";"
