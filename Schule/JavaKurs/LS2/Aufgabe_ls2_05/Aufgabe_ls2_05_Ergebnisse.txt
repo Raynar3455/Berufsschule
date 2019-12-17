@@ -1,0 +1,18 @@
+Dateiname: A15_test100.txt
+
+Statistische Auswertung:
+	 Anzahl:     100
+	 Summe:      52618.27000000002
+	 Mittelwert: 526.1827000000002
+	 Maximum:    993.0
+	 Minimum:    11.25
+
+
+Dateiname: A15_test10000.txt
+
+Statistische Auswertung:
+	 Anzahl:     10000
+	 Summe:      5010939.300000011
+	 Mittelwert: 501.0939300000011
+	 Maximum:    1000.0
+	 Minimum:    0.18
