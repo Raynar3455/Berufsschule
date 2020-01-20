@@ -1,16 +1,3 @@
-//
-//	Inhalt:
-//		Einordnung:		JK-LS3-Beispiel_01
-//		Projekt: 		Beispiel_ls3_01	- 	Personen Beispiel 
-//
-//	Autor:
-//		Name:			Markus Breuer
-//		Organisaion:	BK-GuT
-//
-//	Datum:
-//		Erstellt:			28.11.2019
-//		Letzte Änderung:	
-//
 
 public class Person {
 	private String	name;								// Attribute
